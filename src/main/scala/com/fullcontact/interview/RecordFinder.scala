@@ -30,6 +30,8 @@ object RecordFinder {
 
 
 
+
+
    /* val queries = Source.fromFile("./Queries.txt").getLines.toArray
     val records = Source.fromFile("./Records.txt").getLines.toArray*/
   }
